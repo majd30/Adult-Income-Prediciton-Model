@@ -1,4 +1,4 @@
-# Adult-Income-Predicton-Model
+# Adult-Income-Prediction-Model
 Welcome to the Income Prediction Model repository. This project features a predictive model that classifies individuals into two income categories: ">50k" or "<=50k" based on various features. The model is designed to assist in demographic and economic analysis, providing valuable insights into income potential and aiding in the identification of individuals with higher income prospects.
 # Overview
 This repository houses a predictive model that can be a valuable resource for those interested in income analysis and demographic studies. By utilizing machine learning techniques and feature-based classification, this model helps classify individuals into income categories, enabling users to gain insights into income trends and identify individuals with higher income potential. Whether you're a data analyst, economist, or researcher, this tool can provide you with a data-driven approach to understanding income dynamics. Feel free to explore the code and documentation to get started. If you have any questions or suggestions, please don't hesitate to reach out.
